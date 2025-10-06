@@ -1,0 +1,5 @@
+* text=auto eol=lf
+
+
+# Ensure GitHub linguist treats HTML as primary
+index.html linguist-language=HTML
